@@ -4,6 +4,7 @@ The use of cell factories to convert sugars from lignocellulosic biomass into ch
 In this repository we uploaded:
 
 - Rhto models with and without D-arabitol pathway. For all models, the biomass reaction was improved by adding carotenoids (β-carotene, γ-carotene, torulene and torularhodin).
-- Experimental rates for the three phases (REF_P1, REF_P2, REF_P3) used to constrain models before the flux balance analysis.
+- Experimental rates for the three phases (REF_P1, REF_P2, REF_P3) used to constrain models before performing the flux balance analysis.
 - Random sampling simulations (raw and normalized fluxes)
-- Absolute proteomics results for R. toruloides parental strain under the reference condition in all three growth phases (REF_ P1, P3, and PS) and light irradiation in phase 2 (LIG_P2); and for the R. toruloides the adapted strain under oxidative stress in phases 1 and 3 (ADA_P1, P3). Individual intensities for replicate experimentss (s1-s3) and mean values for the measured conditions and mean absolute abundances (mg/g-protein) are provided. 
+- Absolute proteomics results for R. toruloides parental strain under the reference condition in all three growth phases (REF_ P1, P3, and PS) and light irradiation in phase 2   (LIG_P2); and for the R. toruloides the adapted strain under oxidative stress in phases 1 and 3 (ADA_P1, P3). Individual intensities for replicate experimentss (s1-s3) and     mean values for the measured conditions and mean absolute abundances (mg/g-protein) are provided.
+- The reference file used for the gene enrichment analysis (g:Profiler; Raudvere et al., 2019) on GProfiler (https://biit.cs.ut.ee/gprofiler/gost)
