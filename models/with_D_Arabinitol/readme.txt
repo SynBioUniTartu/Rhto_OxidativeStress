@@ -1,0 +1,3 @@
+The model was improved by adding carotenoids (β-carotene, γ-carotene, torulene and torularhodin) into the biomass pseudo-reaction, and adding D-arabitol production pathway (Jagtap et al. 2018). 
+To allow the model to predict the production of either D- or L-arabitol, in silico pseudo-reactions were added, converting, both, D- and L-arabitol into an “artificial” arabitol without a specific isoform.
+The model REF_P3 is absent as L-arabitol was predicted to be produced in the two first phases.
