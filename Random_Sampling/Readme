@@ -1,4 +1,4 @@
 The model was improved by adding carotenoids (β-carotene, γ-carotene, torulene and torularhodin) into the biomass pseudo-reaction. Flux balance analysis was performed to 
 calculate intracellular flux patterns using RAVEN Toolbox (Wang et al., 2018a) on MATLAB (The MathWorks Inc., MA, USA), Gurobi solver (Gurobi Optimization Inc., TX, USA) 
 and by optimising for non-growth related ATP maintenance (NGAM). The latter was followed by flux variability analysis (random sampling at n = 5000) at 95% from the maximal 
-NGAM value. The raw and normalized predicted fluxes are provided.
+NGAM value. The raw (Table S2) and normalized (Table S3) predicted fluxes are provided.
